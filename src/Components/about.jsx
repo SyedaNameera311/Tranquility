@@ -7,7 +7,7 @@ import {
   ArrowRightIcon,
 } from "@heroicons/react/24/outline";
 
-import Navbar from "../components/Navbar";
+import Navbar from "./Navbar";
 
 const values = [
   {
