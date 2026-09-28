@@ -81,13 +81,13 @@ export default function Signup() {
 
         </div>
 
-        {/* SIGNUP CARD */}
+        
 
         <div className="mx-auto w-full max-w-md">
 
           <div className="rounded-3xl border border-white/10 bg-white/[0.04] p-6 shadow-2xl backdrop-blur-xl sm:p-8">
 
-            {/* Header */}
+        
 
             <div className="text-center">
 
@@ -109,7 +109,7 @@ export default function Signup() {
 
             <form className="mt-8 space-y-5">
 
-              {/* NAME */}
+            
 
               <div>
                 <label className="mb-2 block text-sm font-medium text-gray-300">
@@ -129,7 +129,7 @@ export default function Signup() {
                 </div>
               </div>
 
-              {/* EMAIL */}
+           
 
               <div>
                 <label className="mb-2 block text-sm font-medium text-gray-300">
@@ -149,7 +149,6 @@ export default function Signup() {
                 </div>
               </div>
 
-              {/* PASSWORD */}
 
               <div>
                 <label className="mb-2 block text-sm font-medium text-gray-300">
